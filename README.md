@@ -2,7 +2,9 @@
 
 ## Problem
 
-Visit https://www.letsrevolutionizetesting.com/challenge and solve the challenge
+Requirements: Visit https://www.letsrevolutionizetesting.com/challenge and solve the challenge
+
+Solution: [results](./results.txt)
 
 ## Steps to Run
 
